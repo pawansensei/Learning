@@ -1,0 +1,1 @@
+This is my repository for the exercises I will do from the C++ How to Program book.
