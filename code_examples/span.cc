@@ -76,4 +76,5 @@ int main() {
 
    // access a span element via []
    std::cout << "\n\nThe element at index 2 is: " << mySpan[2] << std::endl;
+   return 0;
 }
