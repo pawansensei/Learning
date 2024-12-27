@@ -16,7 +16,7 @@ int main() {
     // constant pointer to non-constant data
     int z = 10;
     int* const zPtr = &z;   // constant pointer to non-constant data
-    *zPtr = 20              // You can modify the data
+    *zPtr = 20;             // You can modify the data
     // zPtr = nullptr;      // Error: cannot modify the pointer
 
     // constant pointer to constant data
